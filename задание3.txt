@@ -1,0 +1,5 @@
+let ourPlanet_Name = "Earth";
+let currentUser_Name = "User";
+
+const BIRTHDAY = '18.04.1982'; // использовать заглавные буквы?
+const age = someCode(BIRTHDAY);
